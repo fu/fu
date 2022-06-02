@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
   "label": "!",
-  "namedLogo": "LinkedIn", 
+  "namedLogo": "LinkedIn",
   "logoColor": "white",
   "message": "LinkedIn",
-  "color": "blue"
+  "color": "blue",
+  "style": "for-the-badge"
 }

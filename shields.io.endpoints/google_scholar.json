@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
   "label": "G",
-  "namedLogo": "Google Scholar", 
+  "namedLogo": "Google Scholar",
   "logoColor": "green",
   "message": "publications",
-  "color": "green"
+  "color": "green",
+  "style": "for-the-badge"
 }

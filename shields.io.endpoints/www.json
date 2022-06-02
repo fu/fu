@@ -2,5 +2,6 @@
   "schemaVersion": 1,
   "label": "www",
   "message": "fufezan.net",
-  "color": "green"
+  "color": "green",
+  "style": "for-the-badge"
 }
