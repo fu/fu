@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
-  "label": "",
+  "label": "Google",
   "namedLogo": "Google Scholar", 
-  "message": "publications",
+  "logoColor": white"
+  "message": "Scholar",
   "color": "green"
 }
