@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "label": "G",
   "namedLogo": "google scholar", 
-  "logoColor": "green"
+  "logoColor": "green",
   "message": "publications",
   "color": "green"
 }
