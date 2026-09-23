@@ -2,7 +2,7 @@
 
 I am Christian Fufezan, excited about tec, programming, CNC, data viz, diving and coffee. 
 
-- 🔭 I’m currently working on creating the next cloud native life science data processing platform
+- 🔭 I’m currently working on creating the next cloud native life science data processing and agentic AI platform
 
 📫 How to reach me:
 
